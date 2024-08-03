@@ -1,5 +1,5 @@
-## Research Paper
-In our research paper, we have included the following parts:
+## Research Notes
+In our research notes, we have included the following parts:
 
 1. Introduction of the DOBSS algorithm, which transforms the solution of Stackelberg Security Games (SSG) from Multiple Linear Programming to Mixed Integer Linear Programming.
 2. Implementation of the online learning algorithm "Follow the Perturbed Leader."
