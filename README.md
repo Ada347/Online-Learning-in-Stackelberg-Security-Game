@@ -15,3 +15,4 @@ The Help Document is designed to assist those interested in effectively using ou
 5. Design of extreme cases to implement FTL and FTPL algorithms separately, comparing the Regret of the two algorithms in extreme cases to verify the robustness of FTPL.
 ## Code Package
  The Code Package includes all the functions required for experiments. There are separate code documents for each different algorithm and experimental verification of theoretical properties. Once the environment is properly set up, it can be run directly to replicate the experiments.
+ 
